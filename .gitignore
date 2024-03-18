@@ -1,0 +1,5 @@
+# file with passwords and keys
+secrets.txt
+
+# all log files
+*.log
